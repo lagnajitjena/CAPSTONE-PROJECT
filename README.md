@@ -16,6 +16,8 @@ Build and Run
    ./client 127.0.0.1 9000
 
 4. Login credentials:
+
    Username: test
+   
    Password: password123
 
